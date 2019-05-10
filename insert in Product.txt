@@ -1,0 +1,6 @@
+INSERT INTO Product(ProductID,Name,Quantity) VALUES (113,'MSI Leopard GP63 8RE-648VN',15);
+INSERT INTO Product(ProductID,Name,Quantity) VALUES (112,'MSI GT75 8RG-252VN Titan',9);
+INSERT INTO Product(ProductID,Name,Quantity) VALUES (115,'ALIENWARE 17 R2',9);
+INSERT INTO Product(ProductID,Name,Quantity) VALUES (116,'ALIENWARE 17 R3',19);
+INSERT INTO Product(ProductID,Name,Quantity) VALUES (118,'ALIENWARE 17 R4 ',13);
+INSERT INTO Product(ProductID,Name,Quantity) VALUES (114,'ALIENWARE 17 R5',10);

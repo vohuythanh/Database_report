@@ -1,0 +1,8 @@
+CREATE TABLE Product (
+  `ProductID` INT NOT NULL,
+  `Name` VARCHAR(50) NOT NULL,
+  `Quantity` INT NOT NULL,
+  `Price` INT NOT NULL,
+  PRIMARY KEY (`ProductID`));
+
+
